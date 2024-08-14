@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/luxury-yacht-09/",
+    "build": "vite build --base=/html_css_110_Alexandra0707/",
     "preview": "vite preview"
   },
   "devDependencies": {
